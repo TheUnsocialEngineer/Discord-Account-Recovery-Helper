@@ -1,5 +1,5 @@
 # Discord-Account-Recovery-Helper
-Setuop
+Setup
 
 1.pip3 install sendmail
 2. run script
