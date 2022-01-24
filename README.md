@@ -1,9 +1,9 @@
 # Discord-Account-Recovery-Helper
 Setup
 
-1.pip3 install sendmail.
+1. pip3 install sendmail.
 2. run script.
-3. 3 access accounts using a token client.
+3. access accounts using a token client.
 
 
 DISCLAIMER. despite this grabbing tokens this tools is designed purely to help indviduals who may need to access accounts they are locked out of. due to the nature of the file 
